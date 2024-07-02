@@ -8,7 +8,7 @@ rbac_aad_admin_group_object_ids = ["xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx"]
 private_cluster_enabled = false
 
 tags = {
-  "SysName"      = "EPAM"
+  "SysName"      = "KubeRocketCI"
   "SysOwner"     = "email"
   "Environment"  = "CORE-CLUSTER"
   "CostCenter"   = "2024"

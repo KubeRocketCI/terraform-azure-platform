@@ -1,8 +1,8 @@
 tags = {
-  "SysName"      = "EPAM"
-  "SysOwner"     = "SpecialEPMD-EDPcoreteam@epam.com"
+  "SysName"      = "KubeRocketCI"
+  "SysOwner"     = "YOUR_EMAIL_ADDRESS"
   "Environment"  = "CORE-CLUSTER"
   "CostCenter"   = "2024"
-  "BusinessUnit" = "EDP"
-  "Department"   = "EPMD-EDP"
+  "BusinessUnit" = "KubeRocketCI"
+  "Department"   = "platform"
 }
