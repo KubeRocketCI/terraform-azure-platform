@@ -1,4 +1,4 @@
-aks_subnet_id = "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/network/providers/Microsoft.Network/virtualNetworks/core/subnets/cluster"
+aks_subnet_id   = "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/network/providers/Microsoft.Network/virtualNetworks/core/subnets/cluster"
 appgw_subnet_id = "/subscriptions/xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx/resourceGroups/network/providers/Microsoft.Network/virtualNetworks/core/subnets/appgw"
 
 resource_group_name = "KRCIAksRG"

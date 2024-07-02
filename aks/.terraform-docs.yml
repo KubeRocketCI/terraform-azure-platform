@@ -3,8 +3,8 @@ formatter: "markdown table"
 
 # version: ">= 0.13.0, < 1.0.0" # since 0.13.0
 
-header-from: "docs/header.md"
-footer-from: "docs/footer.md"
+header-from: "../docs/header.md"
+footer-from: "../docs/footer.md"
 
 sections:
  show:

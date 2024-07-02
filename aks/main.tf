@@ -100,10 +100,10 @@ module "aks" {
   sku_tier                   = "Free"
   vnet_subnet_id             = var.aks_subnet_id
 
-  # green_field_application_gateway_for_ingress = {
-  #   name      = "krci-agw"
-  #   subnet_id = var.appgw_subnet_id
-  # }
+  green_field_application_gateway_for_ingress = {
+    name      = "krci-agw"
+    subnet_id = var.appgw_subnet_id
+  }
 
   maintenance_window = {
     allowed = [
